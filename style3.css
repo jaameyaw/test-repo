@@ -163,7 +163,7 @@ h2 {
 	text-decoration: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
 
 .dribble {
 	position: absolute;
